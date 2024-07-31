@@ -1,0 +1,2 @@
+# Secure-Banking-Transactions-using-Blockchain-and-Smart-Contracts-for-Ethereum-Cryptocurrency
+The project aims to revolutionize the banking sector by integrating blockchain technology and smart contracts within Ethereum, enhancing security, transparency, and efficiency. It will explore use cases like peer-to-peer payments, loan disbursements, and cross-border transactions, demonstrating the practical benefits of this advanced technology.
